@@ -1,0 +1,16 @@
+#canvas {
+    background-color: rgb(44, 42, 42);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+#form {
+    position: absolute;
+    top: 40vh;
+    left: 45vw;
+    z-index: 1;
+    width: 10vw;
+}

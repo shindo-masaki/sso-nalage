@@ -1,0 +1,5 @@
+__pycache__/
+.azure/
+.venv/
+sso-naleage.cer
+sso-nalage.zip
