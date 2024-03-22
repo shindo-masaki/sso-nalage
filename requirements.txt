@@ -1,3 +1,4 @@
+beautifulsoup4==4.12.3
 blinker==1.7.0
 certifi==2024.2.2
 cffi==1.16.0
@@ -6,7 +7,7 @@ colorama==0.4.6
 cryptography==42.0.5
 Flask==3.0.2
 Flask-SQLAlchemy==3.1.1
-flask_wtf==1.2.1
+Flask-WTF==1.2.1
 greenlet==3.0.3
 importlib-metadata==7.0.1
 itsdangerous==2.1.2
@@ -36,3 +37,4 @@ typing_extensions==4.10.0
 tzdata==2024.1
 Werkzeug==3.0.1
 WTForms==3.1.2
+zipp==3.17.0
